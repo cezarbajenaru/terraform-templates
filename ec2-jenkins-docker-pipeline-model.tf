@@ -1,3 +1,4 @@
+#MUST ADD for each for multiple instance used in the pipeline
 provider "aws" {
     region = "us-east-whatever"    #get region from AWS console in cont
 }
